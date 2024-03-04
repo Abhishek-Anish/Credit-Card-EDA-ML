@@ -1,4 +1,4 @@
-In our analysis to predict customer status, several classification models were explored. Classification models are tools in machine learning that allow us to predict the category or class, in our case, Active or Closed account, to which a new observation belongs, based on historical data. 
+In the analysis to predict customer status, several classification models were explored. Classification models are tools in machine learning that allow us to predict the category or class, in this case, Active or Closed account, to which a new observation belongs, based on historical data. 
 The ROC_AUC score is a performance measurement for classification problems. 
 It tells us how well a model can distinguish between classes, with a score closer to 1 indicating a high ability to differentiate between customers likely to close their account and those likely to stay active.
 Another method to evaluate the models is accuracy, which is calculated by taking the ratio of the number of correct predictions 
